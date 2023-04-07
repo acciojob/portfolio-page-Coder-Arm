@@ -3,9 +3,9 @@
 #Profile{
 	padding-bottom: 50px
 }
-.sections{
-	padding-bottom : 20px;
+#skills{
+	padding-bottom: 20px;
 }
-.Projects{
-	padding-bottom : 10px;
+#projects li{
+	line-height: 30px
 }
